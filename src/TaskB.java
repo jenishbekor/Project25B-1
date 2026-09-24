@@ -9,5 +9,7 @@ public class TaskB {
         System.out.println("The next number for the number "+ n +" is " + (n+1) +".");
         System.out.println("The previous number for the number "+ n +" is " + (n-1) +".");
 
+        System.out.println("");
+
     }
 }
